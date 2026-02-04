@@ -23,5 +23,4 @@ I am a **Software Engineer** passionate about building robust applications, auto
 - **PDF Data Pipeline:** End-to-end ETL for catalog data, from Python extraction to Google BigQuery & Looker visualization.
 ---
 
----
 - **Location:** Berlin, Germany 🇩🇪
