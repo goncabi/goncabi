@@ -1,4 +1,4 @@
-# Hi there, I'm Gabriela! 👋
+# Hi there, I'm Gabriela
 
 I am a **Software Engineer** passionate about building robust applications, automating cloud infrastructure, and solving complex data problems. My experience spans from developing government-level GIS systems to designing scalable CI/CD pipelines.
 
