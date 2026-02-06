@@ -20,7 +20,6 @@ I am a **Software Engineer** passionate about building robust applications, auto
 - **RadVIS Integration:** Enhancing official infrastructure management systems with citizen reporting modules.
 - **Cloud-Native CI/CD:** Zero-downtime deployment pipelines on Google Cloud Platform.
 - **Product Manager:** Full-stack CRUD application with modern Angular/Node.js architecture.
-- **PDF Data Pipeline:** End-to-end ETL for data, from Python extraction to Google BigQuery & Looker visualization.
 ---
 
 - **Location:** Berlin, Germany 🇩🇪
